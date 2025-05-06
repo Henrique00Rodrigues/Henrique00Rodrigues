@@ -3,6 +3,12 @@ Meu perfil profisssional no GitHub
 
 My name is Henrique Rodrigues, and I'm a front-end developer from Ourinhos, São Paulo, Brazil. I like programming, and my goal is to create awesome websites and web applications that solve real-world problems while looking beautiful on screen.
 
+ You can also find me here 👇
+
+ <a href="https://www.linkedin.com/in/henrique-rodrigues-3193b8271/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+
 # Tech Stack
 
 <div align="center">
