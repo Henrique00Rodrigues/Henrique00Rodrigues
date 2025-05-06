@@ -5,7 +5,7 @@ My name is Henrique Rodrigues, and I'm a front-end developer from Ourinhos, São
 
  You can also find me here 👇
 
- <a href="https://www.linkedin.com/in/henrique-rodrigues-3193b8271/" target="_blank">
+ <a href="https://www.linkedin.com/in/henrique00rodrigues/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
