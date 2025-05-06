@@ -10,3 +10,6 @@ My name is Henrique Rodrigues, and I'm a front-end developer from Ourinhos, São
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <div/>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique00Rodrigues&show_icons=true)
